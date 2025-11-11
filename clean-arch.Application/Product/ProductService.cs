@@ -32,7 +32,7 @@ public class ProductService :IProductService
        return new ProdctDto()
        {
            Id = product.Id,
-           Price = product.Price,
+           Price = product.Price.value,
            Title = product.Title
        };
     }
@@ -44,7 +44,7 @@ public class ProductService :IProductService
         {
             Title = x.Title,
             Id = x.Id,
-            Price = x.Price,
+            Price = x.Price.value
            
         }).ToList();
     }

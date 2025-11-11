@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\clean-arch.Application\clean-arch.Application.csproj" />
       <ProjectReference Include="..\clean-arch.Contracts\clean-arch.Contracts.csproj" />
       <ProjectReference Include="..\clean-arch.Domain\clean-arch.Domain.csproj" />
     </ItemGroup>

@@ -3,7 +3,7 @@ using clean_arch.Config;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-ProjectBootstrapper.Configure(builder.Services);
+ProjectBootstrapper.Configure(builder.Services, builder.Configuration);
 
 builder.Services.AddControllers();
 

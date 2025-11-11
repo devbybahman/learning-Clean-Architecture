@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sadat system\\OneDrive\\Desktop\\cleanCodyad\\clean-arch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73AA7AA4-B39D-4DD9-87EC-A98909453BBA}|Api\\Api.csproj|c:\\users\\sadat system\\onedrive\\desktop\\cleancodyad\\clean-arch\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73AA7AA4-B39D-4DD9-87EC-A98909453BBA}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3185A6B-4D4D-4749-8858-C22645AF8303}|clean-arch.Config\\clean-arch.Config.csproj|c:\\users\\sadat system\\onedrive\\desktop\\cleancodyad\\clean-arch\\clean-arch.config\\projectbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3185A6B-4D4D-4749-8858-C22645AF8303}|clean-arch.Config\\clean-arch.Config.csproj|solutionrelative:clean-arch.config\\projectbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sadat system\\OneDrive\\Desktop\\cleanCodyad\\clean-arch\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "C:\\Users\\sadat system\\OneDrive\\Desktop\\cleanCodyad\\clean-arch\\Api\\Program.cs",
-              "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T09:43:42.462Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectBootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\sadat system\\OneDrive\\Desktop\\cleanCodyad\\clean-arch\\clean-arch.Config\\ProjectBootstrapper.cs",
+              "RelativeDocumentMoniker": "clean-arch.Config\\ProjectBootstrapper.cs",
+              "ToolTip": "C:\\Users\\sadat system\\OneDrive\\Desktop\\cleanCodyad\\clean-arch\\clean-arch.Config\\ProjectBootstrapper.cs",
+              "RelativeToolTip": "clean-arch.Config\\ProjectBootstrapper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:19:54.819Z",
+              "EditorCaption": ""
             }
           ]
         }
